@@ -1,0 +1,34 @@
+# Content #
+Este repositorio contiene  varios archivos ejemplo de temas basicos de programacion
+## PHP
+- [Hola mundo](aprendiendoPHP/01-hola-mundo)
+	- Insertar codigo PHP dentro de un archivo HTML 
+- [Variables](aprendiendoPHP/02-variables)
+	- Diferentes variables y metodos para mostrar en pantalla y debuggear
+- [Operadores](aprendiendoPHP/03-operadores)
+	- Operadores matematicos y ejemplos de operaciones
+- [Variables super globales](aprendiendoPHP/04-super_globales)
+	- Recoger datos de un formuario y guardarlos en variables de servidor 
+- [Condicionales](aprendiendoPHP/05-condcionales)
+	- Operadores logicos y condicionales 
+- [Bucles](aprendiendoPHP/06-bucles)
+	- Bucles "while" y "do while"
+- [Ejercicios primer bloque](aprendiendoPHP/07-ejercicios)
+	- [Ejercicio 1](aprendiendoPHP/07-ejercicios/ejercicio1.php)
+		- Crear dos variebles "pais" y "continente" y mostrar su valor en pantalla, ademas mostrar que tipo de dato contienen
+	- [Ejercicio 2](aprendiendoPHP/07-ejercicios/ejercicio2.php)
+		- Mostrar en pantalla todos los numero pares que hay del 1 al 100
+	- [Ejercicio 3](aprendiendoPHP/07-ejercicios/ejercicio3.php)
+		- Imprimir en pantalla los cuadrados de los 40 primeros numero naturales
+	- [Ejercicio 4](aprendiendoPHP/07-ejercicios/ejercicio4.php)
+		- Recoger 2 numeros por la URL y hacer operaciones basicas de una calculadora
+	- [Ejercicio 5](aprendiendoPHP/07-ejercicios/ejercicio5.php)
+		- Mostrar todos los numero entre 2 numeros que se recojan mediante get
+	- [Ejercicio 6](aprendiendoPHP/07-ejercicios/ejercicio6.php)
+		- Mostrar una tabla de HTML con las tablas de multiplicar del 1 al 10
+	- [Ejercicio 7](aprendiendoPHP/07-ejercicios/ejercicio7.php)
+		- Mostrar todos los numero entre 2 numeros impares que se recojan mediante get
+- [Funciones](aprendiendoPHP/08-funciones)
+	- Explicacion de funciones en PHP
+- [Includes](aprendiendoPHP/09-includes)
+	- Incluir pedazos de codigo HTML con PHP
