@@ -19,6 +19,7 @@ CREATE TABLE usuarios(
     nombre varchar(100) not null,
     apellidos varchar(255) not null,
     email varchar(100) default '@gmail.com',
-    password varchar(255),
+    contraseña varchar(255),
+    fecha date,
     CONSTRAINT pk_usuarios PRIMARY KEY(id)
 );
