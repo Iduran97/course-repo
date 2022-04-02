@@ -1,0 +1,12 @@
+<?php
+if(isset($_COOKIE['miCookie'])){
+    setcookie('miCookie',"",time()-100);
+}
+if(isset($_COOKIE['cookieCaduca'])){
+    setcookie('cookieCaduca',"",time()-100);
+}
+if(isset($_COOKIE['miGalleta'])){
+    setcookie('miGalleta',"",time()-100);
+}
+header('Location:ver_cookies.php');
+?>
